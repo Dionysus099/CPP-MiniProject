@@ -44,5 +44,5 @@ Individual Contributions
         - PLY filter (task6)
 
     IMT2019526 - Sahil Khare
-        - Convert a .ppm (colored) file to grayscale(.pgm)
+        - Convert a .ppm (colored) file to .pgm (grayscale)
         - PPMI.cpp (Task7)
