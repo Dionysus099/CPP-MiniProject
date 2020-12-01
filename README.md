@@ -1,4 +1,4 @@
-# CPP-Project
+# CPP-MiniProject
 A Project which consists of 5 Tasks.
 
 C++ Project - 2020
