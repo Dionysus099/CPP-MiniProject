@@ -1,5 +1,5 @@
 # CPP-Project
-A Project consists of 5 Tasks.
+A Project which consists of 5 Tasks.
 
 C++ Project - 2020
 Group 16
